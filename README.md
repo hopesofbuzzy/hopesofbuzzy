@@ -2,8 +2,8 @@
 
 Yo, I am experienced Godot Engine developer! Gamedev is my fuel⚡ and my dream, but I'm interested in large field of things!
 I love:
-- 🌱 Game development (I am experienced game-jam participant)
-- 🔭 Drawing (I am newbie artist and I want to be an animator)
+- Game development (I am experienced game-jam participant)
+- Drawing (I am newbie artist and I want to be an animator)
 - Programming (It's like art, you draw your ideas)
 - Math (A beautiful piece of science)
 
