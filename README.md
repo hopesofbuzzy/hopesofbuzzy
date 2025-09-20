@@ -13,6 +13,11 @@ My skills:
 - C++ (basic)
 - HTML/CSS (websites landings)
 
+Languages:
+- Russian (Native)
+- English (B1-B2, approved)
+- Chinese (A1-A2, poorly)
+
 I am targeting in:
 - AI research / Data science / Machine learning (I love magic of AI, but mainly as a scientifical field, not tool)
 - Drawing and animation (I love AI, but only when there is place for real human art)
