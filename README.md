@@ -14,7 +14,7 @@ My skills:
 - HTML/CSS (websites landings)
 
 I am targeting in:
-- AI research / Data science / Machine learning
+- AI research / Data science / Machine learning (I love magic of AI, but mainly as a scientifical field, not tool)
 - Drawing and animation (I love AI, but only when there is place for real human art)
 - Development of dream-game
 
