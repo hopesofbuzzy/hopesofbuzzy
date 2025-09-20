@@ -1,16 +1,20 @@
-## Hi there 👋
+## Game developer, enthusiastic programmer and newbie artist
 
-<!--
-**hopesofbuzzy/hopesofbuzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yo, I am experienced Godot Engine developer! Gamedev is my fuel⚡ and my dream, but I'm interested in large field of things!
+I love:
+- 🌱 Game development (I am experienced game-jam participant)
+- 🔭 Drawing (I am newbie artist and I want to be an animator)
+- Programming (It's like art, you draw your ideas)
+- Math (A beautiful piece of science)
 
-Here are some ideas to get you started:
+My skills:
+- Godot Engine (experienced)
+- Python (moderate)
+- C++ (basic)
+- HTML/CSS (websites landings)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am targeting in:
+- AI research / Data science / Machine learning
+- Drawing and animation (I love AI, but only when there is place for real human art)
+- Development of dream-game
+
