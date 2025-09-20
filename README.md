@@ -18,3 +18,5 @@ I am targeting in:
 - Drawing and animation (I love AI, but only when there is place for real human art)
 - Development of dream-game
 
+My biggest project is - **Lampotory** - virtual physical laboratory for education. A complex desktop application that I was supporting almost for 1 year
+
