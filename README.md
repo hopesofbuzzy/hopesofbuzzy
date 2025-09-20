@@ -30,4 +30,4 @@ I am targeting in:
 
 My biggest project is - **Lampotory** - virtual physical laboratory for education. A complex desktop application that I was supporting almost for 1 year.
 
-Today I am first-year university student in UrFU where I am going to learn on program about AI algorithms.
+Today I am first-year university student in UrFU where I am going to study about math, ML and AI on program about AI algorithms.
