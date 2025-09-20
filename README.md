@@ -1,17 +1,22 @@
 ## Game developer, enthusiastic programmer and newbie artist
 
 Yo, I am experienced Godot Engine developer! Gamedev is my fuel⚡ and my dream, but I'm interested in large field of things!
+
 I love:
 - Game development (I am experienced game-jam participant)
 - Drawing (I am newbie artist and I want to be an animator)
 - Programming (It's like art, you draw your ideas)
 - Math (A beautiful piece of science)
 
-My skills:
+My main skills:
 - Godot Engine (experienced)
 - Python (moderate)
+
+Additional skills:
 - C++ (basic)
 - HTML/CSS (websites landings)
+- MCBE ex-addon developer (JSON, JS)
+- Drawing (I am newbie animator with basic knowladge of timing, rules of animation) (Phone artist)
 
 Languages:
 - Russian (Native)
@@ -23,5 +28,6 @@ I am targeting in:
 - Drawing and animation (I love AI, but only when there is place for real human art)
 - Development of dream-game
 
-My biggest project is - **Lampotory** - virtual physical laboratory for education. A complex desktop application that I was supporting almost for 1 year
+My biggest project is - **Lampotory** - virtual physical laboratory for education. A complex desktop application that I was supporting almost for 1 year.
 
+Today I am first-year university student in UrFU where I am going to learn on program about AI algorithms.
