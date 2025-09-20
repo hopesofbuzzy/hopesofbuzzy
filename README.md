@@ -15,7 +15,7 @@ My skills:
 
 Languages:
 - Russian (Native)
-- English (B1-B2, approved)
+- English (B1-B2, approved by UrFU)
 - Chinese (A1-A2, poorly)
 
 I am targeting in:
