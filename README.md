@@ -33,4 +33,4 @@
 
 Мой самый ***БОЛЬШОЙ*** проект - [**Lampotory**](https://hopesofbuzzy.github.io/lampotory-landing/) - виртуальная образовательная лаборатория по физике для обучения. Комплексная программная среда, которую я поддерживал 1 год.
 
-Today I am first-year university student in UrFU where I am going to study about math, ML and AI on program about AI algorithms.
+![Текст описания](https://github.com/hopesofbuzzy/lampotory/blob/master/assets/graphic/gui/lua/lua_funny.svg)
