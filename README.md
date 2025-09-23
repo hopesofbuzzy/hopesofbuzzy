@@ -1,33 +1,36 @@
-## Game developer, enthusiastic programmer and newbie artist
+## Разработчик игр, программист-жнтузиаст и художник-новичок
 
-Yo, I am experienced Godot Engine developer! Gamedev is my fuel⚡ and my dream, but I'm interested in large field of things!
+### Обо мне
+Йо, я Н. Данияр Б. - разработчик игр на Godot Engine  с опытом. Геймдев зажигает во мне искру⚡, но меня интересуют многие творческие и научные сферы.
 
-I love:
-- Game development (I am experienced game-jam participant)
-- Drawing (I am newbie artist and I want to be an animator)
-- Programming (It's like art, you draw your ideas)
-- Math (A beautiful piece of science)
+**Я люблю**:
+- :video_game: *Разработку игр* (я опытный участник гейм-джемов)
+- :pencil2: Рисование* (я художник-новичок и хочу стать аниматором)
+- :computer: *Программирование* (код - это тоже искусство)
+- :hushed: *~~Белок~~*
+  - (на самом деле люблю!)
+- :sparkles: *Математику* (прекрасная наука)
 
-My main skills:
-- Godot Engine (experienced)
-- Python (moderate)
+Главные скиллы:
+- :blue_heart: *Godot Engine* (опытный)
+- :sweat_drops: *Python* (средний)
 
-Additional skills:
-- C++ (basic)
-- HTML/CSS (websites landings)
-- MCBE ex-addon developer (JSON, JS)
-- Drawing (I am newbie animator with basic knowladge of timing, rules of animation) (Phone artist)
+Дополнительные скиллы:
+- :neckbeard: C++ (базовый)
+  :frowning: HTML/CSS (лэндинги вебсайтов)
+- :feelsgood: MCBE бывший разработчик аддонов (JSON, JS)
+- :pencil2: Рисование (я новичок с базовым знанием таймингов и правил анимации) (~~Рисуем-с на телефоне пальчиком)
 
-Languages:
-- Russian (Native)
-- English (B1-B2, approved by UrFU)
-- Chinese (A1-A2, poorly)
+Языки:
+- Русский (родной)
+- Английский (B1-B2, подтверждён УрФУ)
+- Китайский (A1-A2, плохо)
 
-I am targeting in:
-- AI research / Data science / Machine learning (I love magic of AI, but mainly as a scientifical field, not tool)
-- Drawing and animation (I love AI, but only when there is place for real human art)
-- Development of dream-game
+Мои цели:
+- Исследование ИИ / Data science / Машинное обучение (мне нравится магия ИИ, но больше как наука, а не инструмент)
+- Рисование и анимация (я люблю ИИ, но только когда он не заменяет человеческую личность)
+- Разработа игры-мечты
 
-My biggest project is - **Lampotory** - virtual physical laboratory for education. A complex desktop application that I was supporting almost for 1 year.
+Мой самый ***БОЛЬШОЙ*** проект - [**Lampotory**](https://hopesofbuzzy.github.io/lampotory-landing/) - виртуальная образовательная лаборатория по физике для обучения. Комплексная программная среда, которую я поддерживал 1 год.
 
 Today I am first-year university student in UrFU where I am going to study about math, ML and AI on program about AI algorithms.
