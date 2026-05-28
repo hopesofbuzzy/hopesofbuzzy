@@ -2,7 +2,7 @@
 
 ### Специализация
 - :blue_heart: *Godot Engine/GDScript* (опытный)
-- :sweat_drops: *Python/VSCode* (средний)
+- :sweat_drops: *Python/VSCode* (активный)
 - (...)
 
 ### Проекты
