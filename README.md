@@ -1,8 +1,8 @@
 Хэй, я Бебебе или Hopesofbuzzy!
 
 ### Специализация
-- :blue_heart: *Godot Engine/GDScript* (опытный)
-- :sweat_drops: *Python/VSCode* (активный)
+- :blue_heart: *Godot Engine/GDScript*
+- :sweat_drops: *Python/VSCode*
 - (...)
 
 ### Проекты
